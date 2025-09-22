@@ -121,6 +121,20 @@ button {
     min-width: 100px;
 }
 
+footer {
+    text-align: center;
+    padding: 15px;
+    color: #fff;
+    background: linear-gradient(135deg, #c6d4f0, #4e085f);
+    font-size: 14px;
+}
+
+footer p {
+    margin: 0;
+    opacity: 0.9;
+}
+
+
 @media (max-width: 480px) {
     .row {
         flex-direction: column;
